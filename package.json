@@ -1,0 +1,13 @@
+{
+  "name": "Orders_And_Customers_FULL_MEAN",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "node server"
+  },
+  "dependencies": {
+    "body-parser": "^1.12.2",
+    "ejs": "1.0.0",
+    "express": "^4.12.4",
+    "mongoose": "^4.0.1"
+  }
+}
